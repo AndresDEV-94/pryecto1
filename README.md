@@ -5,4 +5,4 @@
 ```shell
 ejercicio de aprendizaje, realizado con html, css y javascritp, orientado para la PSICOLOGÍA EN LA SALUD OCUPACIONAL.```
 
-[Psicología-Salud Ocupacional](https://stupefied-torvalds-410e99.netlify.app)
+(Psicología-Salud Ocupacional)[https://stupefied-torvalds-410e99.netlify.app]
