@@ -1,13 +1,92 @@
 *{
-  margin: 1rem;
+  margin: 1,4rem;
   padding: 0;
   text-decoration: none;
   font-family: montserrat;
   box-sizing: border-box;
   list-style: none;
 
+
 }
 h1{
-  color: red;
+  color: #3911B9;
   text-align: center;
+}
+h2{
+  color: #3911B9;
+  text-align: center;
+
+}
+h3{
+  color: #3911B9;
+  font-style: italic;
+
+}
+nav{
+  text-align: center;
+  font-style: italic;
+  background-color: #878972;
+  font-family: "open sans";
+}
+div{
+  text-align: center;
+  background-color: #84CAC7;
+}
+
+select{
+  background-color: #848F8F;
+}
+img{
+  height: 200px;
+}
+footer{
+  background: #111;
+  font-family: "open sans";
+  color: negro;
+
+}
+.fotter-fotter{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+
+}
+.fotter-fotter h3{
+  font-size: 1.8rem;
+  font-weight: 400;
+  text-transform: capitalize;
+  line-height: 3rem;
+
+}
+.fotter-fotter p{
+  max-width: 500px;
+  margin: 10px auto;
+  line-height: 28px;
+  font-size: 14px;
+
+
+}
+.redes{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0 3rem 0;
+}
+.redes li{
+  margin: 0 10px;
+}
+.redes a{
+  text-decoration: none;
+  color: #fff;
+}
+.redes a i{
+  font-size: 1.1rem;
+  transition: color .4s ease;
+
+}
+.redes a:hover i{
+  color: aqua;
 }
